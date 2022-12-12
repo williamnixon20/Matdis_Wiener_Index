@@ -1,0 +1,67 @@
+3-ethylhexane
+8
+7
+C1 C2
+C2 C3
+C3 C4
+C4 C5
+C5 C6
+C3 C7
+C7 C8
+
+3 metil dodekana
+13
+12
+C1 C2
+C2 C3
+C3 C4
+C3 C13
+C4 C5
+C5 C6
+C6 C7
+C7 C8
+C8 C9
+C9 C10
+C10 C11
+C11 C12
+
+2 methyl pentane
+6
+5
+C1 C2
+C2 C3
+C3 C4
+C4 C5
+C2 C6
+
+isobutane
+4
+3
+c1 c2
+c1 c3
+c1 c4
+
+2 methyl octane
+9
+8
+c1 c2
+c2 c3
+c3 c4
+c4 c5 
+c5 c6 
+c6 c7 
+c7 c8
+c2 c9
+
+3 3 4 trimethylhexane
+9
+8
+c1 c2
+c2 c3
+c3 c4
+c4 c5 
+c5 c6 
+c3 c7
+c3 c8
+c4 c9
+
